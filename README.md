@@ -1,23 +1,22 @@
 🌟 About Me
 
-Hi there! I'm a digital fashion designer and web developer with a pretty unique blend of skills. I started with a BA in Fashion Design, added an MA in Design with a focus on speculative design & digital/virtual fashion, and then pursued a BS in Computer Science to round out my expertise. My journey has been driven by a desire to blend my love for design with my passion for tech. 
+I am a digital fashion designer and a web developer. I studied fashion at Studio Bercot in Paris, did MA in Design in Iceland University of the Arts,  with a focus on speculative design & digital/virtual fashion, and finally BS in Computer Science. 
 
 💻 Tech Skills
 
-Frontend Development: I'm currently getting my hands dirty with HTML, CSS, and JavaScript, and practicing React to add it to my toolkit.
+Frontend Development: HTML, CSS, and JavaScript, React, ThreeJs and more.
 
-Backend Knowledge: I've dabbled in Node.js, Express, and PostgreSQL, which helps me understand the bigger picture of web development.
+Backend Knowledge: Node.js, Express, and PostgreSQL. 
 
-Digital Fashion Design: Skilled in Clo3D and Blender for crafting digital fashion pieces, and using Spark AR for creating engaging AR experiences.
+Digital Fashion Design: Clo3D, Blender, Meta Spark AR and more. 
 
-🎨 Design Philosophy
-
-Digital fashion for me is about innovation and sustainability, exploring how we can redefine fashion in the digital realm. It's a space I'm passionate about, constantly learning and experimenting.
+Other design skills : Adobe Photoshop, Illustrator / Affinity Photo, Designer, Publisher etc. 
 
 🚀 Projects & Collaboration
 
-My GitHub is in the works of becoming a showcase of my journey and experiments in web development and creative coding. It might not be packed yet, but I'm committed to filling it with interesting and meaningful projects.
+I only recently started sharing my code on github, so it is a work in progress.
+Currently following the Odin Project curriculum and working on two websites for myself : digitalsigga.xyz & houseoferror.xyz
 
 🔗 Let's Connect
 
-I'm on the lookout for exciting opportunities where I can contribute, grow, and learn more about web development. Whether you have a project in mind or just want to say hi, I'm all ears!
+sigga.irl@digitalsigga.xyz
