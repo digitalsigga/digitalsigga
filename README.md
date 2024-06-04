@@ -15,7 +15,7 @@ Other design skills : Adobe Photoshop, Illustrator / Affinity Photo, Designer, P
 🚀 Projects & Collaboration
 
 I only recently started sharing my code on github, so it is a work in progress.
-Currently following the Odin Project curriculum and working on two websites for myself : digitalsigga.xyz & houseoferror.xyz
+Currently following the Odin Project curriculum and working on my personal portfolio using Prismic : digitalsigga.xyz 
 
 🔗 Let's Connect
 
