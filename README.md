@@ -12,11 +12,6 @@ Digital Fashion Design: Clo3D, Blender, Meta Spark AR and more.
 
 Other design skills : Adobe Photoshop, Illustrator / Affinity Photo, Designer, Publisher etc. 
 
-🚀 Projects & Collaboration
-
-I only recently started sharing my code on github, so it is a work in progress.
-Currently following the Odin Project curriculum and working on my personal portfolio using Prismic : digitalsigga.xyz 
-
 🔗 Let's Connect
 
 sigga.irl@digitalsigga.xyz
