@@ -11,7 +11,3 @@ Backend Knowledge: Node.js, Express, and PostgreSQL.
 Digital Fashion Design: Clo3D, Blender, Meta Spark AR and more. 
 
 Other design skills : Adobe Photoshop, Illustrator / Affinity Photo, Designer, Publisher etc. 
-
-🔗 Let's Connect
-
-sigga.irl@digitalsigga.xyz
